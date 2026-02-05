@@ -102,9 +102,9 @@ All configuration files are in Markdown and can be edited to match your family's
 
 ## Learn More
 
-- [OpenClawd Documentation](https://docs.openclaw.ai)
+- [OpenClawd Documentation](https://openclawd.ai/docs)
 - [OpenClawd Club - Skills & Agents](https://openclawd.club)
-- [Agent Configuration Guide](https://docs.openclaw.ai/concepts/agent)
+- [Agent Configuration Guide](https://openclawd.ai/docs/concepts/agent)
 
 ## License
 
