@@ -1,0 +1,21 @@
+{
+  "name": "familia-moderna",
+  "version": "1.0.0",
+  "description": "The family of OpenClawd agents running your household",
+  "main": "index.js",
+  "bin": {
+    "familia-moderna": "./bin/bootstrap.js"
+  },
+  "scripts": {
+    "bootstrap": "node ./bin/bootstrap.js"
+  },
+  "keywords": [
+    "openclawd",
+    "agents",
+    "household",
+    "automation",
+    "family"
+  ],
+  "author": "",
+  "license": "MIT"
+}
