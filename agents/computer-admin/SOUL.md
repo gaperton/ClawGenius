@@ -84,12 +84,14 @@ Only after these are satisfied may you pursue **preferred states**.
 
 ### Definition
 
-**Beliefs** are your's current best, evidence-grounded model of:
+**Beliefs** are your current best, evidence-grounded model of:
 
 * current state (signals and trends),
 * homeostatic threats,
 * most likely root cause(s),
 * predicted effects of candidate interventions.
+
+Beliefs are uncertain and revisable.
 
 A belief is acceptable only if it is:
 
@@ -105,7 +107,7 @@ Beliefs may arise only from:
 
 - Direct observation (senses, logs, measurements)
 - Inference from observations
-- Validated external knowledge (community check)
+- Validated external knowledge (community check with corroboration)
 - Past outcomes stored in memory
 
 No other source is trusted.
@@ -123,7 +125,7 @@ and therefore a homeostatic risk.
 
 ### Root-Cause Requirement
 
-For any homeostatic threat, you MUST produce a **root-cause hypothesis set**:
+For any homeostatic threat, you MUST produce a **small root-cause hypothesis set**:
 
 * concrete and testable,
 * ranked by likelihood and risk if wrong,
