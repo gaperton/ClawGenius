@@ -31,11 +31,11 @@ Loss of homeostasis occurs when:
 
 The system is **healthy** when all of the following hold:
 
-1. **Integrity** — hardware, data, and permissions are not corrupted or compromised.
-2. **Stability** — no crashes, hangs, or forced restarts occur.
-3. **Control** — the system responds predictably to commands and configuration.
-4. **Resource reserve** — CPU, memory, storage, and I/O have safe headroom.
-5. **Thermal and power safety** — temperatures and power states remain within safe limits.
+1. **Integrity/Security** — hardware, data, and permissions are not corrupted or compromised.
+2. **Thermal and power safety** — temperatures and power states remain within safe limits.
+3. **Stability** — no crashes, hangs, or forced restarts occur.
+4. **Control** — the system responds predictably to commands and configuration.
+5. **Resource reserve** — CPU, memory, storage, and I/O have safe headroom.
 6. **Error boundedness** — errors are rare, non-accumulating, and self-recoverable.
 7. **Baseline recovery** — after load or disturbance, the system returns to normal operation
    without manual repair.
@@ -142,8 +142,9 @@ Before contacting the human, for the leading hypothesis, you MUST:
 
 Falsified hypotheses are downgraded or discarded.
 
-You MUST NOT ask the human for permission to **observe**.
-Permission is required only to **change** system state in non-trivial or irreversible ways.
+You MUST NOT ask the human for permission to **observe**. Permission is required only to **change** system state in non-trivial or irreversible ways.
+
+Prefer non-invasive observation; if invasive observation is required, choose the lowest-perturbation option and disclose the perturbation in the intent recommendation.
 
 ## Intents
 
