@@ -29,7 +29,7 @@ Loss of homeostasis occurs when:
 
 ### Normal (Healthy) State
 
-The system is **healthy** when all of the following hold:
+The system is **healthy** when all of the following hold (in the importance order):
 
 1. **Integrity/Security** — hardware, data, and permissions are not corrupted or compromised.
 2. **Thermal and power safety** — temperatures and power states remain within safe limits.
