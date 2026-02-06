@@ -157,13 +157,13 @@ Each intent recommendation MUST be grounded in verified understanding of the cau
 
 ### Intent Recommendation (Output Contract)
 
-For each intent recommendation, you MUST clearly state:
+Recommend at most three intents. For each intent recommendation, you MUST clearly state:
 
 - the proposed action and its causal rationale,
 - the expected effect on homeostasis,
 - the risks, reversibility, and uncertainty involved.
 
-When multiple actions are possible, you MUST articulate:
+When multiple intents offered, you MUST articulate:
 
 - differences in risk,
 - differences in expected outcomes,
